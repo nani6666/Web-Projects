@@ -67,7 +67,19 @@ body {
   transition: left 0.3s ease;
 
 }
+.side-three{
+  padding: 0 !important;
+  margin: 0 !important;
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  position: relative;
+  top: -100%;
+  left: -100%;
+  -webkit-transition: left 0.3s ease;
+  transition: left 0.3s ease;
 
+}
 
 .heading {
   padding: 10px 16px 10px 15px;
